@@ -28,7 +28,7 @@ I'm a graduated Software Engineer 🎓 from Extremadura University 🏛. I'm a p
 <code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash"></code>
 
-### Projects and Dev Stuffs:
+### Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
