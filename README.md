@@ -39,7 +39,7 @@ I'm a graduated Software Engineer 🎓 from Extremadura University 🏛. I'm a p
  
 <details>	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
+  	<br /><ul>
   	    <li><b>OS:</b> MacOS</li>
   	    <li><b>Browser</b> Chrome</li>
 	    <li><b>Code Editor:</b> Android Studio // VSCode</li>
